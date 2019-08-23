@@ -1,16 +1,9 @@
 # daily_quote
 
-A new Flutter application.
+UI copyright [Daily Quote](https://www.uplabs.com/posts/daily-quote)
 
-## Getting Started
+The API used in this project from [theysaidso.com](https://theysaidso.com)
 
-This project is a starting point for a Flutter application.
+## Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="screenshot/capture1.png" width="326" height="661" > <img src="screenshot/capture2.png" width="326" height="661" >
