@@ -2,7 +2,7 @@
 
 UI copyright [Daily Quote](https://www.uplabs.com/posts/daily-quote)
 
-The API used in this project from [theysaidso.com](https://theysaidso.com)
+The API used in this project from [http://quotes.rest/qod.json](http://quotes.rest/qod.json)
 
 ## Screenshot
 
